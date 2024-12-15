@@ -2,7 +2,7 @@
 Users register securely, browse doctors' profiles, and select preferred appointment slots. A robust notification
 system ensures timely communication. Admins manage the platform efficiently.
 
-_**TO run this app:**_
+_**To run this app:**_
 
 _Server:_
 Create an .env file in server folder and create these required variables, just like:
